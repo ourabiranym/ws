@@ -1,0 +1,101 @@
+ <style>
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Arvo&family=Bitter:wght@300&family=Boogaloo&family=Courgette&family=Dancing+Script:wght@400;500;600&family=Dosis:wght@200&family=Libre+Franklin:wght@200&family=Lobster&family=Martian+Mono&family=Noto+Sans:wght@300&family=Oswald&family=Pacifico&family=Roboto:wght@100;500&family=Source+Serif+Pro:wght@300&display=swap');
+</style>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+ h1{
+    color: brown;
+}
+li{
+text-align: center;
+justify-content: space-between;
+font-family: 'Merriweather', serif;
+font-weight: bolder;
+margin-left: 250px;
+margin-right: 40px;
+}
+a{
+    font-size: larger;
+}
+a:hover {
+    background-color: darkgrey;
+}
+body{ 
+background-image: url("https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwyMTA3Njd8fGVufDB8fHx8&w=1000&q=80" );
+background-size: cover; 
+}
+.service-item {
+ background-image: url("https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/msc/ul/g/94/07/940754cb-5070-44c3-9043feb019569c60.jpg/_jcr_content/renditions/cq5dam.medium.1584.1584.jpeg");
+background-size: cover; 
+ margin-top: 0%;}
+.title{
+  font-family: 'Courgette', cursive;;
+  color: beige;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 80px;
+}
+.title-2{
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  margin-top: 25px;
+  margin-left: 30px;
+  margin-bottom: 25px;
+}
+p{
+  background-color: dimgray;
+}
+.span1{
+font-family: 'Courgette', cursive;;
+}
+.span2{
+  font-family: 'Arvo', serif;;
+}
+.parag{
+  font-size: larger;
+  width: 700px;
+  margin-left: 20px;
+  border-radius: 18px;
+  font-family: 'Arvo', serif; 
+  padding: 20px;
+}
+.form-group{
+  width: 200px;
+}
+.img-1{
+  width: 40px;
+  border-radius: 30px;
+
+}
+.container-1  .container-2{
+  display: inline-block;
+}
+.container-2{
+  margin-left: 800px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.container-1{
+  margin-top: 100px;
+  margin-left: 20px;
+}
+.h1-2{
+font-family: 'Arvo', serif;
+margin-left: 30px;
+
+
+}
+#sending{
+  font-family: 'Courgette', cursive;
+}
+.img-service{
+   background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 20px;
+  border-radius: 20px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+.link{
+  font-size: 20px;
+  color: azure;
+}
